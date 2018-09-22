@@ -7,6 +7,9 @@ title: ABOUT
 <hr>
 <h5><p style="text-align: center;">Drawing maker. Music developer. Graphic design attempter. Struggling program producer. Current education recipient.</p></h5>
 <br>
+<h6><p style="text-align: center;">Contact me the old fashioned way:
+	<br>
+	<b>geartoober@gmail.com</b></p></h6>
 <br>
 ![wow]({{ site.url }}/assets/images/kidsreact.png){: .about-image }
 <br>

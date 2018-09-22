@@ -49,7 +49,7 @@ a:active {
 
 .links {
 	display: grid;
-	grid-template-columns: auto auto auto;
+	grid-template-columns: auto auto auto auto;
 	grid-template-rows: 20% 80%;
 	justify-content: space-around;
 	align-content: start;
@@ -138,4 +138,11 @@ h5 {
 	font-size: 20px;
 	font-weight: lighter;
 	font-style: italic;
+}
+
+h6 {
+	font-family: 'EB Garamond', serif;
+	text-align: center;
+	font-size: 20px;
+	font-weight: normal;
 }
