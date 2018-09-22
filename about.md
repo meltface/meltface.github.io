@@ -1,11 +1,16 @@
 ---
 layout: default
-title: About
+title: ABOUT
 ---
 
 <h3><p style="text-align: center;">About</p></h3>
-
-<h5><p style="text-align: center;">Drawing maker. Music developer. Graphic design attempter. Struggling program producer. Current education reciprocant.</p></h5>
+<hr>
+<h5><p style="text-align: center;">Drawing maker. Music developer. Graphic design attempter. Struggling program producer. Current education recipient.</p></h5>
+<br>
+<br>
+![wow]({{ site.url }}/assets/images/kidsreact.png){: .about-image }
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -30,8 +35,11 @@ title: About
 <li>Beef (cheeseburgers, steak, etc.)</li>
 <li>Inconspicuous anime shirts</li>
 <li>Uchouten Kazoku</li>
+<li>Using your turn signal</li>
 <li>Aikatsu!</li>
 <li>Tomboys</li>
+<li>"Lloyd, I'm Ready to be Heartbroken" by Camera Obscura</li>
+<li>Swords</li>
 <li>To be updated at a later date</li>
 </ul>
 
