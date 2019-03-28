@@ -43,6 +43,10 @@ title: ABOUT
 <li>Tomboys</li>
 <li>"Lloyd, I'm Ready to be Heartbroken" by Camera Obscura</li>
 <li>Swords</li>
+<li>Being excellent to one another</li>
+<li>"Pon de Beach" by Hibiki Ganaha</li> 
+<li>Skateboarding</li>
+<li>Having multiple monitors</li>
 <li>To be updated at a later date</li>
 </ul>
 
