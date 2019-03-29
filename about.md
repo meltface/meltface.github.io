@@ -47,6 +47,7 @@ title: ABOUT
 <li>"Pon de Beach" by Hibiki Ganaha</li> 
 <li>Skateboarding</li>
 <li>Having multiple monitors</li>
+<li>Anime girls playing instruments</li>
 <li>To be updated at a later date</li>
 </ul>
 
