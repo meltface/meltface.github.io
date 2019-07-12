@@ -8,7 +8,7 @@ title: COMISSION
 <br>
 <h6><p style="text-align: center;">Contact, Paypal, etc.:
 	<br>
-	<b>[geartoober@gmail.com](mailto:geartoober@gmail.com)</b></p></h6>
+	<b><a href="mailto:geartoober@gmail.com" target="_blank">geartoober@gmail.com</a></b></p></h6>
 <br>
 <img src="{{ site.url }}/assets/images/comishsheet1.png">
 <img src="{{ site.url }}/assets/images/comishsheet2.png">
