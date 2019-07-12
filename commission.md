@@ -10,10 +10,10 @@ title: COMISSION
 	<br>
 	<b>[geartoober@gmail.com](mailto:geartoober@gmail.com)</b></p></h6>
 <br>
-<img src="{{ site.url }}/assets/images/comishsheet1.png" width="2550" height="324">
-<img src="{{ site.url }}/assets/images/comishsheet2.png" width="2550" height="1128">
-<img src="{{ site.url }}/assets/images/comishsheet3.png" width="2550" height="1804">
-<img src="{{ site.url }}/assets/images/comishsheet4.png" width="2550" height="1612">
+<img src="{{ site.url }}/assets/images/comishsheet1.png">
+<img src="{{ site.url }}/assets/images/comishsheet2.png">
+<img src="{{ site.url }}/assets/images/comishsheet3.png">
+<img src="{{ site.url }}/assets/images/comishsheet4.png">
 <br>
 <br>
 <h4>Details</h4>
