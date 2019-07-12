@@ -10,12 +10,10 @@ title: COMISSION
 	<br>
 	<b>[geartoober@gmail.com](mailto:geartoober@gmail.com)</b></p></h6>
 <br>
-<div class="sheet">
-![commission sheet 1]({{ site.url }}/assets/images/comishsheet1.png){: .comish-image1 }
-![commission sheet 2]({{ site.url }}/assets/images/comishsheet2.png){: .comish-image2 }
-![commission sheet 3]({{ site.url }}/assets/images/comishsheet3.png){: .comish-image3 }
-![commission sheet 4]({{ site.url }}/assets/images/comishsheet4.png){: .comish-image4 }
-</div>
+<img src="{{ site.url }}/assets/images/comishsheet1.png" width="2550" height="324">
+<img src="{{ site.url }}/assets/images/comishsheet2.png" width="2550" height="1128">
+<img src="{{ site.url }}/assets/images/comishsheet3.png" width="2550" height="1804">
+<img src="{{ site.url }}/assets/images/comishsheet4.png" width="2550" height="1612">
 <br>
 <br>
 <h4>Details</h4>
