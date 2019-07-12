@@ -10,10 +10,12 @@ title: COMISSION
 	<br>
 	<b>[geartoober@gmail.com](mailto:geartoober@gmail.com)</b></p></h6>
 <br>
+<div class="sheet">
 ![commission sheet 1]({{ site.url }}/assets/images/comishsheet1.png){: .comish-image1 }
 ![commission sheet 2]({{ site.url }}/assets/images/comishsheet2.png){: .comish-image2 }
 ![commission sheet 3]({{ site.url }}/assets/images/comishsheet3.png){: .comish-image3 }
 ![commission sheet 4]({{ site.url }}/assets/images/comishsheet4.png){: .comish-image4 }
+</div>
 <br>
 <br>
 <h4>Details</h4>
@@ -25,7 +27,7 @@ title: COMISSION
 <li>If the price is good with you, you can send the payment of the full price and then I will do the begin of draw.</li>
   <ul>
   <li>Ko-fi payment can go to my ko-fi page <a href="https://ko-fi.com/meltface" target="_blank">here</a>.</li>
-  <li>Any other payment must go to my Paypal at geartoober@gmail.com. Payments for sketch stuff can go here too.
+  <li>Any other payment must go to my Paypal at geartoober@gmail.com. Payments for sketch stuff can go here too.</li>
   </ul>
 <br>
 <li>I will probably post your commission once it is done on social media unless you tell me not to.</li>
