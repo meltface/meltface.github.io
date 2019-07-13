@@ -54,6 +54,7 @@ title: COMISSION
   <li>Real a*s animals</li>
   <li>Even if not listed here I have the right to turn down any commission for whatever reason because I said so.</li>
   </ul>
+</ul>
 <br>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZ58wXWP8JwVbl2deoPrrgPZAzTAnlDBGRbIMvTb26JZRytA/viewform?embedded=true" width="640" height="1713" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 <br>
