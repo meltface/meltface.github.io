@@ -1,9 +1,9 @@
 ---
 layout: default
-title: COMISSION
+title: COMMISSION
 ---
 
-<h3><p style="text-align: center;">Comissions</p></h3>
+<h3><p style="text-align: center;">Commissions</p></h3>
 <hr>
 <br>
 <h6><p style="text-align: center;">Contact, Paypal, etc.:
