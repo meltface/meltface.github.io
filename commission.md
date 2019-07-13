@@ -19,9 +19,10 @@ title: COMISSION
 <h4>Details</h4>
 
 <ul style="font-family: 'Kosugi', sans-serif;">
+<li>You can fill out the Google Form at the bottom or send me an e-mail, whatever makes you feel good.</li>
 <li>Please provide picture references.</li>
-<li>Also provide in your e-mail how I should contact you, e-mail or otherwise.</li>
-<li>After I receive your request I will message you back to confirm the price</li>
+<li>Also provide in your e-mail or Form submission how I should contact you, e-mail or otherwise.</li>
+<li>After I receive your request I will message you back to confirm the price.</li>
 <li>If the price is good with you, you can send the payment of the full price and then I will do the begin of draw.</li>
   <ul>
   <li>Ko-fi payment can go to my ko-fi page <a href="https://ko-fi.com/meltface" target="_blank">here</a>.</li>
@@ -53,5 +54,8 @@ title: COMISSION
   <li>Real a*s animals</li>
   <li>Even if not listed here I have the right to turn down any commission for whatever reason because I said so.</li>
   </ul>
-
+<br>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZ58wXWP8JwVbl2deoPrrgPZAzTAnlDBGRbIMvTb26JZRytA/viewform?embedded=true" width="640" height="1713" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<br>
+<br>
 <p style="text-align: center; font-family: 'Kosugi', sans-serif;"><a href="{{ site.baseurl }}{% link index.html %}">Home</a></p>
