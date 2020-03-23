@@ -10,10 +10,7 @@ title: COMMISSION
 	<br>
 	<b><a href="mailto:geartoober@gmail.com" target="_blank">geartoober@gmail.com</a></b></p></h6>
 <br>
-<img src="{{ site.url }}/assets/images/comishsheet1.png">
-<img src="{{ site.url }}/assets/images/comishsheet2.png">
-<img src="{{ site.url }}/assets/images/comishsheet3.png">
-<img src="{{ site.url }}/assets/images/comishsheet4.png">
+<img src="{{ site.url }}/assets/images/comishsheetv2.png">
 <br>
 <br>
 <h4>Details</h4>
@@ -56,7 +53,7 @@ title: COMMISSION
   </ul>
 </ul>
 <br>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZ58wXWP8JwVbl2deoPrrgPZAzTAnlDBGRbIMvTb26JZRytA/viewform?embedded=true" width="640" height="1713" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfAqy9fqPVyBIZQYQHCt5DULZ11K0sa8WSDBO4THI0W9E1WJw/viewform?embedded=true" width="640" height="1479" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 <br>
 <br>
 <p style="text-align: center; font-family: 'Kosugi', sans-serif;"><a href="{{ site.baseurl }}{% link index.html %}">Home</a></p>
