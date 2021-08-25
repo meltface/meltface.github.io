@@ -5,19 +5,20 @@ title: ABOUT
 
 <h3><p style="text-align: center;">About</p></h3>
 <hr>
+![wow]({{ site.url }}/assets/images/meltfacenilbanner1.png){: .about-image }
+<br>
 <h5><p style="text-align: center;">Drawing maker. Music developer. Graphic design attempter. Struggling program producer. Ex-education recipient.</p></h5>
 <br>
 <h6><p style="text-align: center;">Contact me the old fashioned way:
 	<br>
 	<b>geartoober@gmail.com</b></p></h6>
 <br>
-![wow]({{ site.url }}/assets/images/meltfacenilbanner1.png){: .about-image }
 <br>
 <br>
 <br>
 <br>
 <br>
-<br>
+<hr>
 <h4>Things I Think Are Well Cool</h4>
 
 <ul style="font-family: 'Kosugi', sans-serif;">
