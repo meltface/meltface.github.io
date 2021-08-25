@@ -25,9 +25,9 @@ title: ABOUT
 <li>THE iDOLM@STER</li>
   <ul>
   <li><b>765 ALL STARS</b>: Makoto Kikuchi, Hibiki Ganaha</li>
-  <li><b>Million Live</b>: Roco Handa, Subaru Nagayoshi</li>
+  <li><b>Million Live</b>: Roco Handa, Megumi Tokoro</li>
   <li><b>Cinderella Girls</b>: Kanako Mimura, Takumi Mukai</li>
-  <li><b>Shiny Colors</b>: Yuika Mitsumine, Mamimi Tanaka</li>
+  <li><b>Shiny Colors</b>: Mei Izumi, Yuika Mitsumine</li>
   </ul>
 <li><a href="http://rateyourmusic.com/~Youkai" target="_blank">Music</a></li>
 <li>Sweet Iced Tea</li>
@@ -55,8 +55,8 @@ title: ABOUT
 	</ul>
 <li>VTubers</li>
 	<ul>
-		<li><b>Hololive</b>: Nekomata Okayu, Inugami Korone, Usada Pekora</li>
-		<li><b>Nijisanji</b>: Sanbaka, Honma Himawari, Sara Hoshikawa</li>
+		<li><b>Hololive</b>: Nekomata Okayu, Inugami Korone, Amane Kanata</li>
+		<li><b>Nijisanji</b>: Sanbaka, Honma Himawari, Pendora Elira</li>
 		<li><b>Other</b>: Amano Pikamee, Shigure Ui, Inuyama Tamaki</li>
 	</ul>
 <li>Coffee</li>
@@ -70,6 +70,7 @@ title: ABOUT
 <li>"Cosmic Thrill Seekers" by Prince Daddy & The Hyena</li>
 <li>PreCure</li>
 <li>Understanding and being able to explain why you like something and what parts of it you especially like it for</li>
+<li>Headphone jacks</li>
 <li>To be updated at a later date</li>
 </ul>
 
