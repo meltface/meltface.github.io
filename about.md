@@ -7,6 +7,8 @@ title: ABOUT
 <hr>
 ![wow]({{ site.url }}/assets/images/meltfacenilbanner1.png){: .about-image }
 <br>
+<h6>Tyler James A. Martin</h6>
+<h6>24 Years of Age. He/Him.</h6>
 <h5><p style="text-align: center;">Drawing maker. Music developer. Graphic design attempter. Struggling program producer. Ex-education recipient.</p></h5>
 <br>
 <h6><p style="text-align: center;">Contact me the old fashioned way:
