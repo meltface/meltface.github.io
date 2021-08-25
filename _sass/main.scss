@@ -157,15 +157,13 @@ h6 {
 }
 
 .button {
-	display: block;
-	margin: auto;
-	width: 14%;
+	display: flex;
+	justify-content: center;
 }
 
 .player {
-	display: block;
-	margin: auto;
-	width: 40%;
+	display: flex;
+	justify-content: center;
 }
 
 img {
