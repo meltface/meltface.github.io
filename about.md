@@ -14,10 +14,6 @@ title: ABOUT
 	<b>geartoober@gmail.com</b></p></h6>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 <hr>
 <h4>Things I Think Are Well Cool</h4>
 
