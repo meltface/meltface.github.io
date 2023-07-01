@@ -9,7 +9,7 @@ title: ABOUT
 <br>
 <h6><b>Tyler James Martin</b>
 <br>
-24 Years of Age. He/Him.</h6>
+25 Years of Age. He/Him.</h6>
 <h5><p style="text-align: center;">Drawing maker. Music developer. Graphic design attempter. Struggling program producer. Ex-education recipient.</p></h5>
 <h6><p style="text-align: center;">Contact me the old fashioned way:
 	<br>
@@ -47,27 +47,22 @@ title: ABOUT
 <li>Having multiple monitors</li>
 <li>Anime girls playing instruments</li>
 <li>Seiyuu</li>
-	<ul>
-		<li>Yukiyo Fujii, Shiina Natsukawa, Reina Ueda, Yuri Komagata</li>
-	</ul>
 <li>VTubers</li>
-	<ul>
-		<li><b>Hololive</b>: Nekomata Okayu, Inugami Korone, Amane Kanata</li>
-		<li><b>Nijisanji</b>: Sanbaka, Honma Himawari, Pendora Elira</li>
-		<li><b>Other</b>: Amano Pikamee, Shigure Ui, Inuyama Tamaki</li>
-	</ul>
 <li>Coffee</li>
 <li>Woodwinds</li>
 <li>Youtube Poop</li>
-	<ul>
-		<li>Fesh Pince of Blair, Hank of the Hill</li>
-	</ul>
 <li>The girl reading this :)</li>
 <li>Baking</li>
 <li>"Cosmic Thrill Seekers" by Prince Daddy & The Hyena</li>
 <li>PreCure</li>
 <li>Understanding and being able to explain why you like something and what parts of it you especially like it for</li>
 <li>Headphone jacks</li>
+<li>"The Brightest Days" by Origami Angel</li>
+<li>PUBLIC TRANSPORTATION AND WALKABLE CITIES !!!</li>
+<li>Clothes that fit me</li>
+<li>A return to forums/messageboards</li>
+<li>Painterly, textured artstyles</li>
+<li>Film photography</li>
 <li>To be updated at a later date</li>
 </ul>
 
