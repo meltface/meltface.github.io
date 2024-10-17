@@ -9,7 +9,7 @@ title: ABOUT
 <br>
 <h6><b>Tyler James Martin</b>
 <br>
-25 Years of Age. He/Him.</h6>
+27 Years of Age. He/Him.</h6>
 <h5><p style="text-align: center;">Drawing maker. Music developer. Graphic design attempter. Struggling program producer. Ex-education recipient.</p></h5>
 <h6><p style="text-align: center;">Contact me the old fashioned way:
 	<br>
@@ -24,7 +24,8 @@ title: ABOUT
   <li><b>765 ALL STARS</b>: Makoto Kikuchi, Hibiki Ganaha</li>
   <li><b>Million Live</b>: Roco Handa, Megumi Tokoro</li>
   <li><b>Cinderella Girls</b>: Kanako Mimura, Takumi Mukai</li>
-  <li><b>Shiny Colors</b>: Mei Izumi, Yuika Mitsumine</li>
+  <li><b>Shiny Colors</b>: Asahi Serizawa, Koito Fukumaru</li>
+  <li><b>Gakumasu</b>: Kotone Fujita, Temari Tsukimura</li>
   </ul>
 <li><a href="http://rateyourmusic.com/~Youkai" target="_blank">Music</a></li>
 <li>Sweet Iced Tea</li>
@@ -63,6 +64,19 @@ title: ABOUT
 <li>A return to forums/messageboards</li>
 <li>Painterly, textured artstyles</li>
 <li>Film photography</li>
+<li>Fender Telecaster</li>
+<li>"Alt. Account" by Equipment</li>
+<li>Bocchi the Rock!</li>
+<li>Girls Band Cry</li>
+<li>BangDream!</li>
+<li>Risograph Printing</li>
+<li>Mechanical Keyboards</li>
+<li>Trackball Mice (When they work)</li>
+<li>DIY</li>
+<li>Physical Manga</li>
+<li>Brush Pens</li>
+<li>Plants</li>
+<li>Scented Candles</li>
 <li>To be updated at a later date</li>
 </ul>
 
