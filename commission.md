@@ -6,13 +6,22 @@ title: COMMISSION
 <h3><p style="text-align: center;">Commissions</p></h3>
 <hr>
 <br>
-<h4><p style="text-align: center;"><b>! COMMISSION SHEET/PRICING CURRENTLY UNDER CONSTRUCTION !</b></p></h4>
+<img src="{{ site.url }}/assets/images/commsheet2025.png">
 <br>
-<h6><p style="text-align: center;">If you really want a commission in the meantime, feel free to DM me somewhere or shoot me an e-mail and we can probably work something out</p></h6>
-<h6><p style="text-align: center;">Contact, Paypal, etc.:
-	<br>
-	<b><a href="mailto:geartoober@gmail.com" target="_blank">geartoober@gmail.com</a></b></p></h6>
 <br>
+<h4>Rules & Terms</h4>
+	
+<ul style="font-family: 'Kosugi', sans-serif;">
+	<li>These are for PERSONAL USE. Anything commercial (design work, etc.) feel free to inquire via DM/E-Mail</li>
+	<li>No Mecha/Armor/Gore (Sorry! Still not good at those)</li>
+	<li>I reserve the right to refuse/refund anything else I don't want to do for any reason</li>
+	<li>Examples of things that add complexity: props, weapons, muscles, furry parts, intricate accessories, complex poses</li>
+	<li>No backgrounds, but I can do a simple color BG if you want</li>
+	<li>Once you submit the form, I'll contact you to confirm everything, ask questions if necessary and ask for the payment. Once you submit the payment, I'll begin.</li>
+	<li>One sketch check, no major revisions after approval (You can still ask for updates any time)</li>
+</ul>
+<br>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdwwj8txHGWFH4p3p7OWa43VMEbBCn3McGbLsLzTXzFDy7TVw/viewform?embedded=true" width="640" height="1531" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <br>
 <br>
