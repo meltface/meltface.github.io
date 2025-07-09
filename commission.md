@@ -21,7 +21,7 @@ title: COMMISSION
 	<li>One sketch check, no major revisions after approval (You can still ask for updates any time)</li>
 </ul>
 <br>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdwwj8txHGWFH4p3p7OWa43VMEbBCn3McGbLsLzTXzFDy7TVw/viewform?embedded=true" width="640" height="1531" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<div style="display: flex; justify-content: center;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdwwj8txHGWFH4p3p7OWa43VMEbBCn3McGbLsLzTXzFDy7TVw/viewform?embedded=true" width="640" height="1531" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>
 
 <br>
 <br>
