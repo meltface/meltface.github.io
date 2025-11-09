@@ -9,7 +9,7 @@ title: ABOUT
 <br>
 <h6><b>Tyler James Martin</b>
 <br>
-27 Years of Age. He/Him.</h6>
+28 Years of Age. He/Him.</h6>
 <h5><p style="text-align: center;">Drawing maker. Music developer. Graphic design attempter. Struggling program producer. Ex-education recipient.</p></h5>
 <h6><p style="text-align: center;">Contact me the old fashioned way:
 	<br>
