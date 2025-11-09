@@ -13,7 +13,7 @@ title: ABOUT
 <h5><p style="text-align: center;">Drawing maker. Music developer. Graphic design attempter. Struggling program producer. Ex-education recipient.</p></h5>
 <h6><p style="text-align: center;">Contact me the old fashioned way:
 	<br>
-	<b>geartoober@gmail.com</b></p></h6>
+	<b>mailface@meltface.xyz</b></p></h6>
 <br>
 <hr>
 <h4>Things I Think Are Well Cool</h4>
